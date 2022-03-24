@@ -1,0 +1,9 @@
+h1 {color: darkblue }
+h2 {color: violet }
+h3 {color: teal }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
